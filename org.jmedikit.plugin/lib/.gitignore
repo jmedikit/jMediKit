@@ -1,4 +1,4 @@
 *.jar
 *.jnilib
 *.dll
-dcm4che2/*
+dcm4che2/
