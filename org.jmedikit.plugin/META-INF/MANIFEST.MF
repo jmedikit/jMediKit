@@ -45,7 +45,7 @@ Bundle-ClassPath: .,
  lib/SimpleITK/simpleitk-0.7.1.post1.jar;
 Bundle-Vendor: Rudolf Korb 
 Bundle-Activator: org.jmedikit.Activator
-Bundle-NativeCode: lib/SimpleITK/Windows64/SimpleITKJava.dll; osname=win32; processor=x86,
+Bundle-NativeCode: lib/SimpleITK/Windows32/SimpleITKJava.dll; osname=win32; processor=x86,
  lib/SimpleITK/Windows64/SimpleITKJava.dll; osname=win32; osname=win64; processor=x86_64,
  lib/SimpleITK/MacOS/libSimpleITKJava.jnilib; processor=x86_64; processor=x86; osname=macosx
 Require-Bundle: org.eclipse.core.runtime;bundle-version="3.9.0",
