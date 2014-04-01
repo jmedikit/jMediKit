@@ -42,7 +42,7 @@ Bundle-ClassPath: .,
  lib/dcm4che2/lib/log4j-1.2.16.jar,
  lib/dcm4che2/lib/slf4j-api-1.6.1.jar,
  lib/dcm4che2/lib/slf4j-log4j12-1.6.1.jar,
- lib/SimpleITK/simpleitk-0.7.1.post1.jar;
+ lib/SimpleITK/simpleitk-0.7.1.post1.jar
 Bundle-Vendor: Rudolf Korb 
 Bundle-Activator: org.jmedikit.Activator
 Bundle-NativeCode: lib/SimpleITK/Windows32/SimpleITKJava.dll; osname=win32; processor=x86,
